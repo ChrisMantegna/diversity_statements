@@ -3,12 +3,10 @@ title: "Writing Diversity Statements"
 subtitle: "An IBIS Workshop"
 author: "Chris Mantegna <br> mantegna@uw.edu"
 date: "April 25, 2025"
-format:
-  logo: images/uw_logo.png
-    output: 
-      isoslides_presentation:
-        incremental: true
-        css: styles.css
+output: 
+  ioslides_presentation:
+    css: styles.css
+    logo: images/uw_logo.png
 ---
 
 ```{r setup, include=FALSE}
