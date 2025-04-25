@@ -4,11 +4,11 @@ subtitle: "An IBIS Workshop"
 author: "Chris Mantegna <br> mantegna@uw.edu"
 date: "April 25, 2025"
 format:
-  revealjs:
-    theme:
-      logo: img/safs_logo.png
-      footer: "UW or my email or something"
-output: ioslides_presentation
+  logo: images/uw_logo.png
+    output: 
+      isoslides_presentation:
+        incremental: true
+        css: styles.css
 ---
 
 ```{r setup, include=FALSE}
