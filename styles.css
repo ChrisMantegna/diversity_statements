@@ -1,38 +1,38 @@
-/* Base styles */
-.reveal {
-  background-color: #4B2E83; /* Dark UW Purple */
-  color: #F1F1F1; /* Light text for contrast */
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+/* GENERAL BODY STYLES */
+body {
+  background-color: #4B2E83; /* UW Purple */
+  color: #F1F1F1; /* Light Gray Text */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/* Headings */
-.reveal h1,
-.reveal h2,
-.reveal h3,
-.reveal h4,
-.reveal h5,
-.reveal h6 {
-  color: #FFFFFF; /* White headings */
+/* HEADINGS */
+h1, h2, h3, h4 {
+  color: #FFFFFF;
   font-weight: bold;
 }
 
-/* Links */
-.reveal a {
-  color: #B7A57A; /* UW Gold for links */
-  text-decoration: underline;
-}
-.reveal a:hover {
-  color: #FFFFFF;
-  background-color: #B7A57A;
-  text-decoration: none;
-  padding: 2px 4px;
-  border-radius: 3px;
+/* SLIDE TITLES */
+.slide h1 {
+  color: #B7A57A; /* Gold for slide titles */
 }
 
-/* Code blocks */
-.reveal code {
-  background-color: #282828; /* Dark gray */
+/* LINKS */
+a {
+  color: #B7A57A;
+  text-decoration: underline;
+}
+a:hover {
+  color: #FFFFFF;
+  background-color: #B7A57A;
+  padding: 2px 4px;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+/* CODE BLOCKS */
+code {
+  background-color: #282828;
   color: #F1F1F1;
   padding: 2px 4px;
   border-radius: 3px;
-  font-family: 'Courier New',
+  font-family: "Courier New", Courier
