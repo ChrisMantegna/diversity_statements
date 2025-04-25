@@ -5,6 +5,7 @@ author: "Chris Mantegna <br> mantegna@uw.edu"
 date: "April 25, 2025"
 output: 
   ioslides_presentation:
+    incremental: true
     css: styles.css
     logo: images/alt_uw_logo.png
 ---
@@ -14,64 +15,114 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+## {.flexbox .vcenter}
 
 # Welcome!
 
 <div class="notes">
-- Grounding, taking 2 seconds to get everyone to change gears into our space & possibly a land acknowledgement
+- Grounding, taking 2 seconds to get everyone to change gears into our space
+- Some quick notes, today's conversation is a 'yes, and' conversation - not a 'yes, but' we're in the mindframe that we are honing skills, not debating the validity of those things
 </div>
----
 
-## About Me | 
-- three points of interest/ alignment with the reason I'm giving the presentation
-- my recognition
-- why i'm qualified to do this
+## About Me 
+- Marine Bio '21
+
+[image!](images/marbio.jpeg)
+
+##
+- PhD loading...
+
+[image!](images/boundless.jpg)
+
+##
+- Educator
+
+[image!](images/2024yi_boat.jpeg) [image!](images/sicb2025.jpeg)
 
 ## About You
-- temp check
-- pick a community builder
+[image!](images/boxer.jpeg)
 
-# What is a Diversity Statement? (this is where I'll ask about what folks know or don't)
+- Temperature check
+- If you could pick up a walk-up song, what would it be?
+
+## {.flexbox .vcenter}
+
+# What is a Diversity Statement?
+<div class="notes">
+- Ask for 
+</div>
 
 ##
 - Also known as a Perspectives or Experience Statement
 - One of three statements in an application package
-- Least clear and most misunderstood piece of the package (we're going to take a look at why before we dive into details because context is crucial for crafting a solid statement)
+- Least clear and most misunderstood piece of the package
+<div class="notes">
+(we're going to take a look at why before we dive into details because context is crucial for crafting a solid statement)
+</div>
 
-
-## Timeline
+## Timeline | Inception
 - Around since early 2000s in the UC system
-- Widely adopted in early 2010s by universities for faculty positions
-- Called into question in mid-2010s by creating the false dichotomy of DEI v Merit- based hiring
-- UC system made the statements mandatory in 2018 for tenure-track position applications
-- 2020 saw an almost absolute adoption of the practice in response to the murder of George Floyd and the inception of the nationwide Black Lives Matter movement
+- Early 2010s Widely adopted by universities for faculty positions
+- Mid 2010s Called into question by creating the false dichotomy of DEI v Merit- based hiring
+- 2018 UC system made the statements mandatory for tenure-track position applications
+<div class="notes">
+Prior to the politicization of DEI, these statements existed
+This is a normal part of a job application - 'is this candidate a good fit for our culture'
+We didn't see the politicization until around the time of political rhetoric
+It is important to note that all practices need to be interrogated - academic applications are no different, this is an iterative practice and unfortunately, the narrative was hijacked by folks outside of the academy and we move into a contentious era in the 2020s
+</div>
+
+## Timeline | Current
+- 2020 Near complete adoption of the practice **allegedly** in response to the murder of George Floyd
 - 2022 UW rejected making the statement a requirement for tenure-track applications
-- Banned in public institutions in Texas, North Carolina and Missouri in 2023 (because it isn't a 'merit-based' metric)
+- 2023 Banned in public institutions in Texas, North Carolina and Missouri
 - 2025 it is often a requirement in non-tenure track applications, often optional
+<div class="notes">
+Some insititutions were 'virtue signalling' by doubling down on their adoption  - but many were not.
+
+(because it isn't a 'merit-based' metric)
+</div>
 
 ## Purpose
 - Academic search committees can gauge a candidate's 'fit' with the institution/ student body
 - Documentation method to include the unpaid labor and often overlooked work of non-majority candidates
 
+## {.flexbox .vcenter}
 
 # So, *what* is it actually?
 
 ##
 - Fundamental demonstration of your values, commitments and capabilities in an academic position
-- 3 areas of demonstration (teaching, research, service) - fundamental parts of the academic position
+- Three areas of demonstration - the core of the academic position
+  - Research
+  - Teaching
+  - Service
 - Another opportunity to stand out
+
+## {.flexbox .vcenter}
 
 # What it is not
 
 ##
-- Not about you, your identities or privileges (counterintuitive, but explain the difference amongst the three statements and why this is true)
+- Not about you 
+  - Your identities 
+  - Your privileges 
 - Oppression Olympics
 - Pie in the Sky, We are the World, pontification
+
+<div class="notes">
+- I know this seems counterintuitive, but ultimately this package is not about you but about how you translate the work
+- Research statements are as much about your work as they are about your collaborations and how you've made the most of the opportunity
+- Teaching are as much about your practice as it relates to how you've translated your philosophy to the students and if it is effective
+- The DS is no different, it is not about you but rather how you use the tools you have or don't to connect to the MVV of the institution
+</div>
 
 ## How does it fit in your application package?
 - Recap teaching statement purpose
 - Recap research statement purpose
 - Bow on the package
+
+## {.flexbox .vcenter}
 
 # Why write one?
 
@@ -81,6 +132,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Demonstrates your understanding of ‘DEI’ beyond visible diversity
 - How to thematically present yourself as a candidate by weaving your narrative across all 3 statements
 
+## {.flexbox .vcenter}
 
 # How to Write a Diversity Statement
 
@@ -121,6 +173,8 @@ This exercise is essentially creating a positionality statement - let's walk thr
 - Hook your reader - personal anecdote
 - Tell a cohesive story with specific examples
 
+## {.flexbox .vcenter}
+
 # Things to Keep in Mind
 
 ## Pitfalls to Avoid
@@ -142,6 +196,8 @@ This exercise is essentially creating a positionality statement - let's walk thr
 - Don't waste space restating the pieces you've clearly discussed in your teaching and research statements
 - Get another set of eyes on that joint! (preferably someone who has the position you want- leverage your upper-level network, peers are great but may lack the scope to really help)
 
+## {.flexbox .vcenter}
+
 # Wrapping it up
 
 ##
@@ -150,6 +206,6 @@ This exercise is essentially creating a positionality statement - let's walk thr
 - Connect this statement to your teaching and research statements for maximum impact
 
 ##
-- Resources can be found here: 
+- Resources can be found here: [image!](images/gh_logo.jpeg) github.com/ChrisMantegna/diversity_statements
 - Questions?
 
