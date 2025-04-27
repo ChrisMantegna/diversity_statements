@@ -28,22 +28,7 @@ About Me
 
 ## Husky at Heart
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 2em;">
-  
-  <div style="display: flex; flex-direction: column; gap: 1em; width: 40%;">
-    <img src="images/me_bigw.JPG" style="width: 100%;" />
-    <img src="images/h100.jpg" style="width: 100%;" />
-  </div>
-
-  <div style="width: 40%;">
-    <img src="images/marbio.jpeg" style="width: 100%;" />
-  </div>
-  
-</div>
-
-<div style="font-size: 70%; text-align: center; margin-top: 1em; color: #85754d;">
-Marine Bio '21
-</div>
+##  {data-background=images/marbio.jpeg data-background-size=50%}
 
 ## PhD loading...
 
