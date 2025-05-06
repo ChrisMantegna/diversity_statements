@@ -28,7 +28,7 @@ About Me
 
 ## Husky at Heart
 
-##  {data-background=images/marbio.jpeg data-background-size=50%}
+##  {data-background=images/marbio.jpeg data-background-size=30%}
 
 ## PhD loading...
 
